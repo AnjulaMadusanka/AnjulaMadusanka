@@ -54,9 +54,9 @@
 
 ### 🚀 Featured projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [WLMS](https://github.com/AnjulaMadusanka/project-one) | Learning Management System | React, Node.js |
+<a href="https://github.com/AnjulaMadusanka/WLMS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnjulaMadusanka&repo=WLMS&theme=github_dark&hide_border=true" />
+</a>
 <!--| [project-two](https://github.com/AnjulaMadusanka/project-two) | REST API service | Python, FastAPI, PostgreSQL |-->
 
 ---
