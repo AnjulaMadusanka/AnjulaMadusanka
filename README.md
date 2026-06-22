@@ -56,7 +56,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [WLMS](https://github.com/AnjulaMadusanka/WLMS) | Learning Management System | React, Node.js |
+| [WLMS](https://github.com/AnjulaMadusanka/project-one) | Learning Management System | React, Node.js |
 <!--| [project-two](https://github.com/AnjulaMadusanka/project-two) | REST API service | Python, FastAPI, PostgreSQL |-->
 
 ---
