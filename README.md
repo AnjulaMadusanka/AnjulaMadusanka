@@ -32,7 +32,6 @@
 **Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-6C63FF?style=flat&logo=swagger&logoColor=white)
 
