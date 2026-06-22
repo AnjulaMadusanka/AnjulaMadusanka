@@ -56,8 +56,8 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [project-one](https://github.com/AnjulaMadusanka/project-one) | Full-stack web app | React, Node.js |
-| [project-two](https://github.com/AnjulaMadusanka/project-two) | REST API service | Python, FastAPI, PostgreSQL |
+| [WLMS](https://github.com/AnjulaMadusanka/WLMS) | Learning Management System | React, Node.js |
+<!--| [project-two](https://github.com/AnjulaMadusanka/project-two) | REST API service | Python, FastAPI, PostgreSQL |-->
 
 ---
 
