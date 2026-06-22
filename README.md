@@ -54,7 +54,7 @@
 ### 🚀 Featured projects
 
 <a href="https://github.com/AnjulaMadusanka/WLMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnjulaMadusanka&repo=WLMS&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnjulaMadusanka&repo=WLMS&theme=github_dark&hide_border=true&cache_bust=1" />
 </a>
 <a href="https://github.com/AnjulaMadusanka/HCIM_Pulse">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnjulaMadusanka&repo=HCIM_Pulse&theme=github_dark&hide_border=true" />
